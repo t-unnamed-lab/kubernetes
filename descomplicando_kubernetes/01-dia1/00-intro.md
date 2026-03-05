@@ -14,3 +14,6 @@
 - [Intoducao aos Componentes](09-intro_components.md)
 - [Kubectl](10-kubectl.md)
 - [Prática](11-pratica.md)
+- [Primeiros Passos](12-primeiros_passos.md)
+- [Kubernetes Yaml](13-kube_yaml.md)
+- [Licao de Casa](14-licao_casa.md)
