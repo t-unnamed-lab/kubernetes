@@ -42,6 +42,12 @@ Para acessar um pod, você pode usar o comando:
 kubectl exec -it <nome-do-pod> -n <nome-do-namespace> -- /bin/bash
 ```
 
+Para excluir um pod, você pode usar o comando:
+
+```bash
+kubectl delete pod <nome-do-pod> -n <nome-do-namespace>
+```
+
 ## Deployments do Kubernetes
 
 Um deployment é um recurso do Kubernetes que gerencia a implantação e a atualização de aplicativos. Ele garante que o número desejado de réplicas de um aplicativo esteja sempre em execução, e pode ser usado para atualizar o aplicativo sem tempo de inatividade.
